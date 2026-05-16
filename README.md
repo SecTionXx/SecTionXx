@@ -1,11 +1,31 @@
-- 👋 Hi, I’m Boworn.
-- 👨‍🔧 I'm a mechanical engineer looking to transition into a developer role.
-- 👀 I'm seeking opportunities in the developer field.
-- 🌱 I’m currently learning Full Stack Developer
-- 📚 Skill : HTML, CSS, TAILDWIND, JAVASCRIPTS, REACT, NODJS, EXPRESS, POSTGRES DB, MONGO DB
-- 📫 How to reach me / Boworn.tr@gmail.com
+## Hi, I'm Pan (Boworn)
 
-<!---
-SecTionXx/SecTionXx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+HVAC Sales Engineer by day, building with AI and code by night. Based in Bangkok, Thailand.
+
+### What I Do
+
+- **HVAC Engineering** — Chiller plant analysis, proposals, and technical sales at B.GRIMM. Carrier, Grundfos, Tozen, and more.
+- **AI / LLM Tools** — Building multi-agent systems with Claude Code, MCP servers, and custom automation workflows.
+- **Web Development** — Learning full-stack with React, TypeScript, Python, and Tailwind CSS.
+- **ICT Trading** — Gold/XAUUSD analysis using Smart Money Concepts and algorithmic strategies.
+
+### Tech Stack
+
+`Python` `TypeScript` `React` `Tailwind CSS` `PostgreSQL` `Docker`
+
+`Claude Code` `LangChain` `MCP` `Anthropic API` `Obsidian`
+
+### Current Projects
+
+- **Claude Dotfiles** — Multi-agent orchestration setup with 80+ custom skills, rules, and hooks
+- **BGRIMM Quotation Tools** — Automated PDF extraction and proposal generation for HVAC projects
+- **MarketLens** — Gold market analysis with ICT confluence scoring
+
+### Connect
+
+- **Email:** Boworn.tr@gmail.com
+- **GitHub:** [SecTionXx](https://github.com/SecTionXx)
+
+---
+
+*"Build tools that do the heavy lifting, so you can focus on decisions."*
