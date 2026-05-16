@@ -23,9 +23,9 @@ HVAC Sales Engineer by day, building with AI and code by night. Based in Bangkok
 
 ### GitHub Stats
 
-![SecTionXx GitHub stats](https://github-readme-stats.vercel.app/api?username=SecTionXx&show_icons=true&theme=tokyonight&hide_border=true)
+![SecTionXx GitHub stats](https://github-readme-stats.vercel.app/api?username=SecTionXx&show_icons=true&theme=gruvbox&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SecTionXx&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SecTionXx&layout=compact&theme=gruvbox&hide_border=true)
 
 ### Connect
 
