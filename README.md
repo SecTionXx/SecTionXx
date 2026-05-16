@@ -23,6 +23,8 @@ HVAC Sales Engineer by day, building with AI and code by night. Based in Bangkok
 
 ### Connect
 
+- **LinkedIn:** [boworn-tr](https://www.linkedin.com/in/boworn-tr/)
+
 - **Email:** Boworn.tr@gmail.com
 - **GitHub:** [SecTionXx](https://github.com/SecTionXx)
 
