@@ -21,10 +21,15 @@ HVAC Sales Engineer by day, building with AI and code by night. Based in Bangkok
 - **BGRIMM Quotation Tools** — Automated PDF extraction and proposal generation for HVAC projects
 - **MarketLens** — Gold market analysis with ICT confluence scoring
 
+### GitHub Stats
+
+![SecTionXx GitHub stats](https://github-readme-stats.vercel.app/api?username=SecTionXx&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SecTionXx&layout=compact&theme=tokyonight&hide_border=true)
+
 ### Connect
 
 - **LinkedIn:** [boworn-tr](https://www.linkedin.com/in/boworn-tr/)
-
 - **Email:** Boworn.tr@gmail.com
 - **GitHub:** [SecTionXx](https://github.com/SecTionXx)
 
